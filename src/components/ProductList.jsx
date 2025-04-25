@@ -41,7 +41,7 @@ const products = [
     id: 6,
     name: "Mechanical Keyboard",
     price: 2999,
-    image: "./mechanical-keyboard.jpg",
+    image: "./mechanical-keyboard.png",
     availableQty: 12,
   },
   {

@@ -83,5 +83,18 @@ Navigate to: http://localhost:5173
 
 ### 📸 Preview
 
-![Project Preview](./public/preview.png)
+* Home Page
+    
+    * Hero Section
+
+    ![Project Preview](./public/preview.png)
+ 
+    * Products Section
+
+    ![Project Preview](./public/preview2.png)
+
+* Cart Page
+
+
+
 
