@@ -81,20 +81,6 @@ Navigate to: http://localhost:5173
 * React Toastify
 
 
-### 📸 Preview
-
-* Home Page
-    
-    * Hero Section
-
-    ![Project Preview](./public/preview.png)
- 
-    * Products Section
-
-    ![Project Preview](./public/preview2.png)
-
-* Cart Page
-
 
 
 
