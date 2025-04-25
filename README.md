@@ -29,28 +29,31 @@ A modern, responsive shopping cart application built with **React**, **Tailwind 
 ```bash
 git clone https://github.com/your-username/react-shopping-cart.git
 cd react-shopping-cart
+```
 
+### 📥 Install dependencies
 
-📥 Install dependencies
-
+```bash
 npm install
 # or
 yarn install
+```
 
+### ▶️ Start the development server
 
-▶️ Start the development server
-
+```bash
 npm run dev
 # or
 yarn dev
+```
 
 
-🌐 Open in browser
+### 🌐 Open in browser
 
 Navigate to: http://localhost:5173
 
 
-💡 Demo Workflow
+### 💡 Demo Workflow
 
 Hero Section greets user with animation
 
@@ -63,7 +66,7 @@ Go to Cart → manage quantities or remove items
 Checkout → cart clears, and you're redirected to a Thank You page
 
 
-🧰 Tech Stack
+### 🧰 Tech Stack
 
 React
 
