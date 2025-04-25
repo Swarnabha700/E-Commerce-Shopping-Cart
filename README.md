@@ -81,4 +81,7 @@ Navigate to: http://localhost:5173
 * React Toastify
 
 
-📸 Preview
+### 📸 Preview
+
+![Project Preview](./public/preview.png)
+

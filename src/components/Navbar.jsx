@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = ({ cartCount }) => {
   return (
-    <nav className="bg-transparent shadow-md sticky top-0 backdrop-blur-md z-50">
+    <nav className="bg-gradient-to-r from-violet-200/80 via-blue-100/80 to-purple-200/80 shadow-md sticky top-0 backdrop-blur-sm z-50">
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         <Link to="/" className="text-2xl font-bold text-blue-600">
           ShopEase
