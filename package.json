@@ -2,16 +2,19 @@
   "name": "ecommerce",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Swarnabha700.github.io/E-Commerce-Shopping-Cart",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.4",
     "framer-motion": "^12.9.1",
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.5.1",
