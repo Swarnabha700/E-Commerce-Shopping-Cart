@@ -50,33 +50,35 @@ yarn dev
 
 ### 🌐 Open in browser
 
+```bash
 Navigate to: http://localhost:5173
+```
 
 
 ### 💡 Demo Workflow
 
-Hero Section greets user with animation
+* Hero Section greets user with animation
 
-ProductList renders all available products
+* ProductList renders all available products
 
-Click "Add to Cart" → item is stored in CartContext
+* Click "Add to Cart" → item is stored in CartContext
 
-Go to Cart → manage quantities or remove items
+* Go to Cart → manage quantities or remove items
 
-Checkout → cart clears, and you're redirected to a Thank You page
+* Checkout → cart clears, and you're redirected to a Thank You page
 
 
 ### 🧰 Tech Stack
 
-React
+* React
 
-Tailwind CSS
+* Tailwind CSS
 
-React Router DOM
+* React Router DOM
 
-Framer Motion
+* Framer Motion
 
-React Toastify
+* React Toastify
 
 
 📸 Preview
